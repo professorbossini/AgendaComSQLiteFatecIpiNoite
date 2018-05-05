@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AgendaComSQLiteFatecIpiNoite</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_adiciona_contato">AdicionaContatoActivity</string>
+    <string name="nomeHint">Digite seu nome</string>
+    <string name="foneHint">Digite seu telefone</string>
+    <string name="emailHint">Digite seu email</string>
+    <string name="insercao_ok">Contato inserido com sucesso</string>
+</resources>
